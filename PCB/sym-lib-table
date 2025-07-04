@@ -1,0 +1,7 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "ESP32_OnlineDevBoard")(type "KiCad")(uri "${KIPRJMOD}/Symbols/ESP32_OnlineDevBoard.kicad_sym")(options "")(descr ""))
+  (lib (name "SD_Card_Amazon")(type "KiCad")(uri "${KIPRJMOD}/Symbols/SD_Card_Amazon.kicad_sym")(options "")(descr ""))
+  (lib (name "MotorDriver")(type "KiCad")(uri "${KIPRJMOD}/Symbols/MotorDriver.kicad_sym")(options "")(descr ""))
+  (lib (name "PushButtonLib")(type "KiCad")(uri "${KIPRJMOD}/Symbols/PushButtonLib.kicad_sym")(options "")(descr ""))
+)

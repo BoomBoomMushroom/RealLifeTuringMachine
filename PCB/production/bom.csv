@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+D1,LED_D5.0mm,1,EnabledLED,
+J1,PinHeader_1x08_P2.54mm_Vertical,1,NFC/RFID RW,
+U1,ESP32_OnlineDevBoard,1,~,
+"U2, U3, U4",PinHeader_1x06_P2.54mm_Vertical,3,~,
+U5,SW-TH_6P-L7.0-W7.0-P2.00_KFC7070-Z,1,~,
