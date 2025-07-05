@@ -1,25 +1,31 @@
 # Real Life Turing Machine
 This is a real, physical, and working Turing Machine using an ESP32, off the shelf i2c components, and NFC tags. The Turing machine seems like the lowest level and most basic form of hardware imaginable, so I wanted to try my hand at making one in real life!
 
-# NFC (total: 8.40)
-    NFC Stickers: $7.39 100pcs https://www.aliexpress.us/item/3256807427594021.html
-    NFC Reader + Writer (i2c?): $1.81 https://www.aliexpress.us/item/2251832854399567.html
+# Images
+![Case Front](images/CaseFront.png)
+![Case Back](images/CaseBack.png)
+![Machine Inside](images/MachineInside.png)
+![PCB](images/PCB_Front.png)
 
-# Tape Parts (total: 21.12)
-    Stepper Motors + Driver Board: $5.12 total, $2.56 per 28BYJ-48, https://www.aliexpress.us/item/3256806163054731.html
-    Tape Material: $16, $8 leader + $8 shipping Mylar/Polyester 16mm Film Leader Cream Single Perf, https://hollywoodfilmsupplies.com/film-supplies/16mm-film-leader-plastic-kodak
+# Hackatime project name(s)
+- RealLifeTuringMachine (8h 31m) TODO: Update this time before submitting
+- PCB (2h 23m)
+- ESP32_OnlineDevBoard (19m)
+- SD_Card_Amazon (10m)
+- VHS_Container (4m)
+- Blender-VHS_Container (2m)
+- Blender-TuringMachineCAD_Models (2m)
 
+# BOM (Check BOM.md for a more in depth bill of materials)
+- NFC Stickers
+- NFC Reader & Writer Module
+- 2x 28BYJ-48 Stepper Motors & Driver boards
+- 50ft to 100ft Mylar/Polyester 16mm Film Leader
+- ESP32
+- SD Card Breakout Board + SD Card (optional)
+- Latching Switch 6 Pin
+- 3D Printer filament if 3d printing the case
+- 3mm LED
+- PCB to house all the electronics
 
-# Other Parts (total: 4.67)
-    Micro Controller: Aliexpress $1.41 for 2; ESP32, with USB C on it, https://www.waveshare.com/nodemcu-32s.htm  https://www.aliexpress.us/item/3256806150650156.html
-    SD Card slot: $1.26 https://www.aliexpress.us/item/3256806636964149.html
-    Latching Switch for enable and disabling: $2 https://www.aliexpress.us/item/3256807666498267.html
-        Datasheet & Footprints for switch: https://lcsc.com/product-detail/image/KFC7070-Z_C22459508.html
-
-# 3D Printer (optional) (total: 14.99)
-    3D Printer Filament PLA: $14.99 https://www.microcenter.com/product/611533/inland-285mm-black-pla-3d-printer-filament-1kg-spool-(22-lbs)
-
-# PCB (total: 5.12)
-    PCB from JLCPCB (w/ Global Standard Direct Line Shipping): $5.12
-
-TODO: Add the play/pause logo onto the button, fill out the checklist and submit
+TODO: Fill out the checklist and submit
